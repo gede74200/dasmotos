@@ -1,0 +1,74 @@
+h1 { 
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.h2 { 
+    font-family: Helvetica;
+    font-size: 32px !important;
+    font-weight: bold;
+    color: white;
+    background-size: auto;
+}
+
+.h2brushes { 
+    background-color: mediumspringgreen;
+    width: 100%;
+    display: block;
+    font-family: Helvetica;
+    font-size: 32px !important;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.h2frames { 
+    background-color: lightcoral;
+    width: 100%;
+    display: block;
+    font-family: Helvetica;
+    font-size: 32px !important;
+    font-weight: bold;
+    color: white;
+}
+
+.h2paint { 
+    background-color: skyblue;
+    width: 100%;
+    display: block;
+    font-family: Helvetica;
+    font-size: 32px !important;
+    font-weight: bold;
+    color: white;
+}
+
+h3 { 
+    font-family: Helvetica;
+    font-weight: bold;
+    color: black;
+}
+
+p { 
+    font-family: Helvetica;
+    text-align: left;
+    color: black;
+}
+
+.banner  {   
+    background-image: url('../images/pattern.jpeg');
+    background-size: 230%;
+    height: 100%;
+    width: 100%;
+}
+
+.brush  {   
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+    text-align-last: auto;
+}
